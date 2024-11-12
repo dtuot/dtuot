@@ -1,5 +1,8 @@
-## Hi there 👋
+# Digital Transformation Office - University of Tripoli (DTUOT)
 
+This repository is part of the Digital Transformation Office at the University of Tripoli’s GitHub organization. It serves as a foundational repository, containing essential documentation, including the organization’s README.md file, and any general information for collaborative projects managed by the DTUOT. Our goal is to leverage GitHub as a centralized platform for hosting, sharing, and managing digital transformation projects and initiatives that support the university’s strategic vision.
+
+![Digital Transformation Office Logo](https://scontent.ftip3-2.fna.fbcdn.net/v/t39.30808-6/302337801_173127745278152_6824644485514400159_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHo6KjTockkJ506TFBQWtIeqqiQjq_5U9CqqJCOr_lT0BIE9S-O3hJNZ4jEr1HfXHsqFzQGuRAmf1gAqJini_Er&_nc_ohc=tDj8QI5e5xsQ7kNvgE0Y5Zf&_nc_zt=23&_nc_ht=scontent.ftip3-2.fna&_nc_gid=AnlRUPv__U9vPIS3HfPuO3g&oh=00_AYCY4N30fhBgggZjm8qH8HMvLuJ-z7gR8LS3l_sgqicJEQ&oe=6738D3E0)
 <!--
 **dtuot/dtuot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
